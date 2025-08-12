@@ -4,6 +4,8 @@
 
 **추가 예정**
 
+추정 압축 기법: LZSS
+
 ```cpp
 struct PAKHeader {
 	uint32_t Offset;
